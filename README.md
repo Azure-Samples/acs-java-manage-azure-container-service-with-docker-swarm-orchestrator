@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Containerservice
-platforms: java
-author: yaohaizh
+extensions:
+- services: Containerservice
+- platforms: java
 ---
 
-## Getting Started with Containerservice - Manage Container Service With Docker Swarm Orchestrator - in Java ##
+# Getting Started with Containerservice - Manage Container Service With Docker Swarm Orchestrator - in Java #
 
 
   An Azure Container Services sample for managing a container service with Docker Swarm orchestration.
