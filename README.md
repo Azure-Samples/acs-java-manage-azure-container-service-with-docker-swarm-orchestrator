@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Containerservice
-  platforms: java
+- services: Containerservice
+- platforms: java
 ---
 
 # Getting Started with Containerservice - Manage Container Service With Docker Swarm Orchestrator - in Java #
